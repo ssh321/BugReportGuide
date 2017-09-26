@@ -1,0 +1,41 @@
+{"path":[{"First":"朋友","value":14,
+    "children":[{
+        "Second":"添加朋友","value":7,
+        "children":[
+            {"Third":"我的二维码","value":4},
+            {"Third":"我的吱口令","value":3}
+        ]
+    },
+    {
+        "Second":"支付助手","value":7,
+        "children":[
+            {"Third":"我的账单","value":3},
+            {"Third":"退款查询","value":4}
+        ]
+    }
+    ]
+},
+
+{"First":"我的","value":18,
+    "children":[{
+        "Second":"余额宝","value":10,
+        "children":[
+            {"Third":"转出","value":5},
+            {"Third":"转入","value":5}
+        ]
+    },
+    {
+        "Second":"芝麻信用","value":8,
+        "children":[
+            {"Third":"晒晒分","value":3},
+            {"Third":"了解分","value":5}
+        ]
+    }
+    ]
+}],
+"solved":[
+    {"point":"我的","value":6},
+    {"point":"芝麻信用","value":4},
+    {"point":"了解分","value":1},
+    {"point":"朋友","value":2}
+]};
